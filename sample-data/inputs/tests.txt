@@ -1,0 +1,12 @@
+E sample-data/inputs/genes.txt sample-data/outputs/genes.huf
+D sample-data/outputs/genes.huf sample-data/outputs/genesRecover.txt
+E sample-data/inputs/abcefString.txt sample-data/outputs/abcefString.huf
+D sample-data/outputs/abcefString.huf sample-data/outputs/abcefStringRecover.txt
+E sample-data/inputs/greeneggsandham.txt sample-data/outputs/greeneggsandham.huf
+D sample-data/outputs/greeneggsandham.huf sample-data/outputs/greeneggsandhamRecover.txt
+E sample-data/inputs/midsummer.txt sample-data/outputs/midsummer.huf
+D sample-data/outputs/midsummer.huf sample-data/outputs/midsummerRecover.txt
+E sample-data/inputs/don.jpg sample-data/outputs/don.huf
+D sample-data/outputs/don.huf sample-data/outputs/donRecover.jpg
+E sample-data/inputs/luciaPeaceAge5.pgm sample-data/outputs/luciaPeaceAge5.huf
+D sample-data/outputs/luciaPeaceAge5.huf sample-data/outputs/luciaPeaceAge5Recovered.pgm

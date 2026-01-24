@@ -1,0 +1,47 @@
+# Java build outputs
+/out/
+/bin/
+/build/
+/target/
+/classes/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE settings
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
+# Environment
+.env
+.env.local
+
+# Generated samples
+sample-data/outputs/*
+!sample-data/outputs/.gitkeep
+
+# Coverage and reports
+coverage/
+.junit/
+
+
+docs/archive/
