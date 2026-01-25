@@ -53,7 +53,6 @@ Running `java -cp build TestCompression` with no arguments executes a quick demo
 - Package as a reusable library (Jar) with versioned releases.
 - Add JUnit tests and CI workflow for automated verification.
 - Include compression benchmarks and ratio reporting across datasets.
-- Provide screenshots or asciicasts in `docs/screenshots/` demonstrating CLI usage.
 
 ## Author
 Omar Khattab
